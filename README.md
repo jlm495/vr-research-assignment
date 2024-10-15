@@ -1,6 +1,9 @@
 # Interaction Research - Intro to VR
-Filling a cup
+### Name
 Jenna Mandel
+
+### Title
+Filling a cup
 
 ## Interaction Description
 The interaction I'm going to explore is filling a cup with water. The 3 implementations I want to do are:
